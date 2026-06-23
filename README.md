@@ -11,6 +11,15 @@ May what I learn become a path others can walk to get further, faster, just as I
 I try to be a little better every day, treating setbacks as part of the process.
 </em></sub></p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/amorgante/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://medium.com/@amorgante">
+    <img src="https://img.shields.io/badge/medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+</p>
+
 ---
 
 ## Now
@@ -87,10 +96,3 @@ Background in database systems through **Universidad Tecnológica Nacional**. Re
     </td>
   </tr>
 </table>
-
----
-
-<p align="center">
-  <a href="https://medium.com/@amorgante">Medium</a> ·
-  <a href="https://www.linkedin.com/in/amorgante/">LinkedIn</a>
-</p>
