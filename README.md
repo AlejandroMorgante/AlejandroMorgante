@@ -78,11 +78,21 @@ Background in database systems through **Universidad Tecnológica Nacional**. Re
 
 ## Projects
 
+### Bringing AI agent lifecycle orchestration to Apache Airflow
+
+I am contributing a cross-cloud set of Airflow integrations that turns a Dag into a control plane for managed AI agent runtimes. These operators bring the deployment lifecycle into the workflow itself: create an agent runtime, wait for it without occupying a worker, invoke or query the agent, publish updates, and clean up the infrastructure when the workflow is done.
+
+- **[Amazon Bedrock AgentCore Runtime](https://github.com/apache/airflow/pull/67984)** — create, wait for readiness, invoke, and delete an AgentCore Runtime.
+- **[Vertex AI Agent Engine](https://github.com/apache/airflow/pull/68479)** — create, retrieve, query, update, and delete an Agent Engine, with deferrable query jobs.
+- **[Microsoft Foundry Hosted Agents](https://github.com/apache/airflow/pull/68799)** — create and version, wait for activation, invoke through Responses or Invocations, and delete a Hosted agent.
+
+The larger idea is **bring your own agent**: the agent keeps its framework, reasoning loop, models, and tool integrations, while the cloud service operates the managed runtime around it. Airflow does not replace either layer; it orchestrates the agent's operational lifecycle as part of a larger data or AI workflow. Each contribution includes hooks, operators, deferrable triggers, documentation, unit tests, and end-to-end validation against the real cloud service.
+
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/AlejandroMorgante/airflow"><b>apache/airflow</b></a> <sub>contributor</sub><br />
-      <sub>Open source contributions: Bedrock AgentCore operators, Vertex AI Agent Engine operators, DMS task operator</sub>
+      <a href="https://github.com/apache/airflow"><b>apache/airflow</b></a> <sub>contributor</sub><br />
+      <sub>Cross-cloud AI agent lifecycle integrations for AWS, Google Cloud, and Azure, plus data engineering operators</sub>
       <p></p>
       <img src="https://img.shields.io/github/stars/apache/airflow?style=flat-square&label=stars&color=f59e0b" />&nbsp;
       <img src="https://img.shields.io/github/forks/apache/airflow?style=flat-square&label=forks&color=60a5fa" />
