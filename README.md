@@ -12,9 +12,10 @@ I try to be a little better every day, treating setbacks as part of the process.
 </em></sub></p>
 
 <p align="center">
-  <a href="https://almorgan.dev">
-    <img src="https://img.shields.io/badge/website-almorgan.dev-D97706?style=for-the-badge&logo=safari&logoColor=white" alt="Website" />
-  </a>
+  <a href="https://almorgan.dev"><strong>almorgan.dev</strong></a>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/amorgante/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
