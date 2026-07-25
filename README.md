@@ -1,4 +1,4 @@
-# Morgan
+# Alejandro Morgante - Morgan
 
 <p align="center">
   <img width="350" alt="Little Morgan" src="assets/little-morgan.jpeg" />
