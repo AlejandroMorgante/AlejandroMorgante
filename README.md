@@ -16,10 +16,10 @@ I try to be a little better every day, treating setbacks as part of the process.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/amorgante/">
+  <a href="https://www.linkedin.com/in/AlejandroMorgante/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://medium.com/@amorgante">
+  <a href="https://medium.com/@AlejandroMorgante">
     <img src="https://img.shields.io/badge/medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
 </p>
@@ -30,7 +30,7 @@ I try to be a little better every day, treating setbacks as part of the process.
 
 **Principal Data & AI Architect @ Mendel** — building data and AI platforms.
 
-Writing about agentic data systems on **[Medium](https://medium.com/@amorgante)** — agents that debug their own pipelines, multi-agent architectures on AWS, modern data platform design.
+Writing about agentic data systems on **[Medium](https://medium.com/@AlejandroMorgante)** — agents that debug their own pipelines, multi-agent architectures on AWS, modern data platform design.
 
 Background in database systems through **Universidad Tecnológica Nacional**. Recognized at **Hackathon 2025 - Harvard Health Systems Innovation Lab** for building high-value health systems through AI.
 
@@ -73,10 +73,10 @@ Background in database systems through **Universidad Tecnológica Nacional**. Re
 
 ## Writing
 
-- **[Agentic Airflow: Using AI Agents to Troubleshoot DAG Failures](https://medium.com/@amorgante/agentic-airflow-using-ai-agents-to-troubleshoot-dag-failures-37ccfeb4aa25)** — Airflow failure context sent to an AI agent that reads code, proposes fixes, opens draft PRs, and notifies the team.
-- **[Multi-Agents with Bedrock and Claude: One Supervisor and Three Specialists](https://medium.com/@amorgante/multi-agents-with-bedrock-and-claude-one-supervisor-and-three-specialists-be7483287f92)** — a routed multi-agent architecture using AWS Bedrock and Claude models.
-- **[Designing a Modern Data & AI Platform on AWS: From CDC to AI-Powered Analytics](https://medium.com/@amorgante/designing-a-modern-data-ai-platform-on-aws-from-cdc-to-ai-powered-analytics-5d9fb0466bf3)** — an end-to-end AWS data platform design, from ingestion and transformation to observability, RAG, and AI-powered analytics.
-- **[POC; Amazon Bedrock + S3 Vector](https://medium.com/@amorgante/poc-amazon-bedrock-s3-vector-0dbd72273887)** — a practical Bedrock agent proof of concept grounded on documents through S3 Vectors.
+- **[Agentic Airflow: Using AI Agents to Troubleshoot DAG Failures](https://medium.com/@AlejandroMorgante/agentic-airflow-using-ai-agents-to-troubleshoot-dag-failures-37ccfeb4aa25)** — Airflow failure context sent to an AI agent that reads code, proposes fixes, opens draft PRs, and notifies the team.
+- **[Multi-Agents with Bedrock and Claude: One Supervisor and Three Specialists](https://medium.com/@AlejandroMorgante/multi-agents-with-bedrock-and-claude-one-supervisor-and-three-specialists-be7483287f92)** — a routed multi-agent architecture using AWS Bedrock and Claude models.
+- **[Designing a Modern Data & AI Platform on AWS: From CDC to AI-Powered Analytics](https://medium.com/@AlejandroMorgante/designing-a-modern-data-ai-platform-on-aws-from-cdc-to-ai-powered-analytics-5d9fb0466bf3)** — an end-to-end AWS data platform design, from ingestion and transformation to observability, RAG, and AI-powered analytics.
+- **[POC; Amazon Bedrock + S3 Vector](https://medium.com/@AlejandroMorgante/poc-amazon-bedrock-s3-vector-0dbd72273887)** — a practical Bedrock agent proof of concept grounded on documents through S3 Vectors.
 
 ---
 
