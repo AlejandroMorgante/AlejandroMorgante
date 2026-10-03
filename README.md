@@ -71,6 +71,40 @@ Background in database systems through **Universidad Tecnológica Nacional**. Re
 
 ---
 
+## Speaking & community
+
+Sharing what I build and learn about data, AI agents, and open source with the community.
+
+<p align="center">
+  <a href="assets/airflow-agentcore-talk.png">
+    <img src="assets/airflow-agentcore-talk.png" width="680" alt="Presenting the integration between Apache Airflow and Amazon Bedrock AgentCore" />
+  </a>
+  <br />
+  <sub>Bringing AI agent lifecycle orchestration to Apache Airflow.</sub>
+</p>
+
+<details>
+  <summary>More moments with the community</summary>
+
+  <p align="center">
+    <a href="assets/aws-developers-lounge.jpg">
+      <img src="assets/aws-developers-lounge.jpg" width="380" alt="Community group photo at the AWS Developers Lounge" />
+    </a>
+    <br />
+    <sub>AWS Developers Lounge.</sub>
+  </p>
+
+  <p align="center">
+    <a href="assets/community-meetup.jpeg">
+      <img src="assets/community-meetup.jpeg" width="640" alt="Group photo with the community at a meetup" />
+    </a>
+    <br />
+    <sub>Learning, sharing ideas, and connecting with fellow builders.</sub>
+  </p>
+</details>
+
+---
+
 ## Writing
 
 - **[Agentic Airflow: Using AI Agents to Troubleshoot DAG Failures](https://medium.com/@AlejandroMorgante/agentic-airflow-using-ai-agents-to-troubleshoot-dag-failures-37ccfeb4aa25)** — Airflow failure context sent to an AI agent that reads code, proposes fixes, opens draft PRs, and notifies the team.
