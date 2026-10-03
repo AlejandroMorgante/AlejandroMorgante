@@ -94,13 +94,6 @@ Sharing what I build and learn about data, AI agents, and open source with the c
     <sub>AWS Developers Lounge.</sub>
   </p>
 
-  <p align="center">
-    <a href="assets/community-meetup.jpeg">
-      <img src="assets/community-meetup.jpeg" width="640" alt="Group photo with the community at a meetup" />
-    </a>
-    <br />
-    <sub>Learning, sharing ideas, and connecting with fellow builders.</sub>
-  </p>
 </details>
 
 ---
