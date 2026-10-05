@@ -39,6 +39,11 @@ Background in database systems through **Universidad Tecnológica Nacional**. Re
 ### Certified across cloud, data engineering, and AI
 
 <div style="margin-bottom: 4px;">
+  <a href="https://www.credly.com/badges/584934db-dbe6-4c23-a924-8d7efb3b12af">
+    <img src="https://img.shields.io/badge/AWS-Certified%20AI%20Business%20Strategist-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS Certified AI Business Strategist" />
+  </a>
+</div>
+<div style="margin-bottom: 4px;">
   <a href="https://www.credly.com/badges/d60e0d36-37b6-409d-8466-c3f46e9e0694/public_url">
     <img src="https://img.shields.io/badge/AWS-Certified%20Data%20Engineer-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" />
   </a>
